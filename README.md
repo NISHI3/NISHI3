@@ -1,6 +1,6 @@
 # NISHI3
 * Japan
-* HP ...createing 
+* HP ...creating 
 
 ## Skills
 ### Langs
