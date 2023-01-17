@@ -6,6 +6,8 @@
 ### Langs
 * JavaScript / TypeScript
 * Vue / Nuxt
+* React / Next / Gatsby
+* Angular / Ionic
 * Nest.js
 * WebRTC
 
